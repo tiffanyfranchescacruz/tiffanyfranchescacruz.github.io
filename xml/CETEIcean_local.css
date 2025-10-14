@@ -1,0 +1,34 @@
+/* The template below (lines 12-23) provides some examples of properties 
+you could try. Create new styles using your own specific element names 
+(but keep the "mine-" prefix). If you want to change the prefix, 
+remember to also update it in lines 12 and 14 of the CETEI_local.js file. 
+To use the template, copy lines 9-20 below, paste them at the end of the document,
+and change the selector from "mine-element" to "mine-[name of element]".
+For each element or group of elements you want to style, create a separate
+copy of the template.
+*/
+
+/*
+mine-element {
+    display:block;
+    display:inline;
+    background-color: [colorname];
+    color: [colorname]; 
+    margin:1em;
+    font-size:125%;
+    font-style:italic;
+    text-decoration:line-through;
+    text-decoration:overline;
+    text-decoration:underline;
+}
+ */
+
+/*   
+  To put content before or after an element:
+  mine-element:before {
+   content: "[content]"; 
+    }
+  mine-element:after {
+   content: "[content]"; 
+    }
+ */
